@@ -1,0 +1,2 @@
+# A-http-and-https-server-proxy-using-python-socket-library
+Using socket library to make a simple proxy server where browser acts as a server and browser is assigned the port of program's port. Our program is man-in-the-middle written in python that takes http/https requests from browser and forwards these requests to actual server and get actual server response and send it back to the browser. Cache is also implemented but not working properly.
